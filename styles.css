@@ -1,0 +1,23 @@
+body {
+    background-color:orchid;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    background-color: orchid;
+    width: 70%;
+    border-color: yellowgreen;
+    border-width: 10px;
+}
+hr:hover{
+    border-style: none;
+    border-top: dotted;
+    background-color: orchid;
+    width: 70%;
+    border-color: yellow;
+    border-width: 10px;
+}
+img{
+    color: yellow;
+    border-radius: 10000px;
+}
